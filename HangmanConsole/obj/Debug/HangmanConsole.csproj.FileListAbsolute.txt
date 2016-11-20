@@ -1,0 +1,8 @@
+c:\users\soura\onedrive\documents\visual studio 2015\Projects\HangmanConsole\HangmanConsole\bin\Debug\HangmanConsole.exe.config
+c:\users\soura\onedrive\documents\visual studio 2015\Projects\HangmanConsole\HangmanConsole\bin\Debug\HangmanConsole.exe
+c:\users\soura\onedrive\documents\visual studio 2015\Projects\HangmanConsole\HangmanConsole\bin\Debug\HangmanConsole.pdb
+c:\users\soura\onedrive\documents\visual studio 2015\Projects\HangmanConsole\HangmanConsole\obj\Debug\HangmanConsole.csprojResolveAssemblyReference.cache
+c:\users\soura\onedrive\documents\visual studio 2015\Projects\HangmanConsole\HangmanConsole\obj\Debug\HangmanConsole.exe
+c:\users\soura\onedrive\documents\visual studio 2015\Projects\HangmanConsole\HangmanConsole\obj\Debug\HangmanConsole.pdb
+C:\Users\soura\onedrive\documents\visual studio 2015\Projects\HangmanConsole\HangmanConsole\obj\Debug\HangmanConsole.Resource1.resources
+C:\Users\soura\onedrive\documents\visual studio 2015\Projects\HangmanConsole\HangmanConsole\obj\Debug\HangmanConsole.csproj.GenerateResource.Cache
